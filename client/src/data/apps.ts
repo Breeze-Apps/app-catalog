@@ -11,7 +11,7 @@ export const apps = [
       'Worklog',
       'Document Management',
     ],
-    demoUrl: '#',
+    demoUrl: '../intranet-portal',
   },
   {
     name: 'Image Gallery',
@@ -24,7 +24,7 @@ export const apps = [
       'Timeline',      
       'Social sharing',
     ],
-    demoUrl: '#',
+    demoUrl: '../image-gallery',
   },
   {
     name: 'Slide Generator',
@@ -36,7 +36,7 @@ export const apps = [
       'Slideshow',
       'GenAI'      
     ],
-    demoUrl: '#',
+    demoUrl: '../slide-generator',
   },
   {
     name: 'MockAPI Generator',
@@ -47,7 +47,7 @@ export const apps = [
     features: [
       'MockAPI',      
     ],
-    demoUrl: '#',
+    demoUrl: '../mock-api',
   }
  
 ];
